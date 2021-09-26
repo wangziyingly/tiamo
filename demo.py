@@ -1,2 +1,3 @@
 print(1)
-print(wangziyingkanhangyi)
+print(2)
+print(3)
